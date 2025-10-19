@@ -14,6 +14,7 @@ It’s made as a project for learning about how memory reading works
 </p>
 
 ### Example pointers.xml:
+```xml
 <Pointers>
   <CheatEntry>
     <Address>"GameAssembly.dll+0x123456"</Address>
@@ -24,6 +25,7 @@ It’s made as a project for learning about how memory reading works
     </Offsets>
   </CheatEntry>
 </Pointers>
+```
 
 ## Other
 This tool is for educational or testing purposes only
