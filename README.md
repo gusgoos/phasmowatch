@@ -7,7 +7,11 @@ It’s made as a project for learning about how memory reading works
 - Connects to the Phasmophobia process.
 - Reads a ghost ID value from memory using collected pointers collected from `pointers.xml`
 - Shows the ghost type and evidence highlighting it in a chart
-![output screenshot](demo.png)
+
+<p align="center">
+  <img src="demo.png" alt="PHASMOWATCH output example" width="380"><br>
+  <em>Example terminal output</em>
+</p>
 
 ### Example pointers.xml:
 <Pointers>
