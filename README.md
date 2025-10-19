@@ -1,10 +1,10 @@
 # Phasmowatch
 
-Phasmowatch is a small Python tool that reads memory data from the game **Phasmophobia** to show which ghost is active and what evidences matches it
+Phasmowatch is a small Python tool that reads memory data to show which ghost is active and what evidences matches it
 It’s made as a project for learning about how memory reading works
 
 ## What it does
-- Connects to the Phasmophobia process.
+- Connects to the process.
 - Reads a ghost ID value from memory using collected pointers collected from `pointers.xml`
 - Shows the ghost type and evidence highlighting it in a chart
 
